@@ -64,6 +64,7 @@ Input validation to protect logging mechanisms
   
 📎 **Supporting Tool Reports**
 -[Microsoft Threat Modeling Tool Report (PDF)](report/Microsoft-tool-threat-model-report.pdf)
+
 [OWASP Threat Dragon Report (PDF)](report/OWASP-Threat-Dragon-Report.pdf)
 
 
