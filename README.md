@@ -58,7 +58,8 @@ Input validation to protect logging mechanisms
 
 ## Report Guide
 
-- [Threat_Modelling_Report.pdf](report/Threat-Modelling-Summary-Report – NXG Supply System.pdf)
+[Threat Modelling Summary Report (PDF)](report/Threat-Modelling-Summary-Report-NXG-Supply-System.pdf)
+
   Author-written report containing system analysis, risk assessment, and mitigations.
   
 📎 **Supporting Tool Reports**
