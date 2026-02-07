@@ -56,10 +56,13 @@ Transparent Data Encryption (TDE) for data at rest
 Input validation to protect logging mechanisms
 
 
-📄 Full Report
+📘 Primary Report  
+- Threat_Modelling_Report.pdf — Author-written analysis, risk assessment, and mitigations
 
-📘 Threat Modelling Report (PDF):
-/report/Threat_Modelling_Report.pdf
+📎 Supporting Tool Outputs  
+- Microsoft_Threat_Model_Report.pdf  
+- OWASP_Threat_Dragon_Report.pdf
+
 
 ⚠️ Disclaimer
 
