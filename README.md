@@ -58,7 +58,7 @@ Input validation to protect logging mechanisms
 
 ## Report Guide
 
-- [Threat_Modelling_Report.pdf](report/Threat_Modelling_Summary_Report.pdf)
+- [Threat_Modelling_Report.pdf](report/Threat_Modelling_Report.pdf)
   Author-written report containing system analysis, risk assessment, and mitigations.
   
 📎 **Supporting Tool Reports**
