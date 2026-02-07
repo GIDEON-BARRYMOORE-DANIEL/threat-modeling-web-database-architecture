@@ -1,4 +1,5 @@
 Threat Modelling Project – Web-to-Database Architecture
+
 📌 Overview
 
 This repository documents a structured threat modelling exercise conducted on a Web-to-Database architecture responsible for handling user authentication, transactional processing, and sensitive data storage.
@@ -17,6 +18,7 @@ SQL Database
 
 It processes sensitive data including user credentials, transactional records, and system logs.
 
+
 🔍 Threat Modelling Approach
 
 The analysis was conducted using:
@@ -33,6 +35,7 @@ OWASP Threat Dragon
 
 Both tools were used to compare depth of analysis and validate findings.
 
+
 🚨 Key Risks Identified
 
 Unauthorized access to sensitive database records
@@ -40,6 +43,7 @@ Unauthorized access to sensitive database records
 Spoofing of trusted system components
 
 Audit log tampering affecting incident response
+
 
 🛡 Mitigations Proposed
 
@@ -50,6 +54,7 @@ Role-Based Access Control (RBAC) with least privilege
 Transparent Data Encryption (TDE) for data at rest
 
 Input validation to protect logging mechanisms
+
 
 📄 Full Report
 
