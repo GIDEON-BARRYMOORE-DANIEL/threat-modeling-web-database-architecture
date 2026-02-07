@@ -63,8 +63,9 @@ Input validation to protect logging mechanisms
   Author-written report containing system analysis, risk assessment, and mitigations.
   
 📎 **Supporting Tool Reports**
-- [Microsoft Threat Modeling Tool Report](report/Microsoft_Threat_Model_Report.pdf)
-- [OWASP Threat Dragon Report](report/OWASP_Threat_Dragon_Report.pdf)
+-[Microsoft Threat Modeling Tool Report (PDF)](report/Microsoft-tool-threat-model-report.pdf)
+[OWASP Threat Dragon Report (PDF)](report/OWASP-Threat-Dragon-Report.pdf)
+
 
 
 
